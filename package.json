@@ -1,0 +1,8 @@
+{
+  "name": "typescript-2022-02-03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DanielBorges91/typescript-2022-02-03.git",
+  "author": "Daniel Borges <danprog91@gmail.com>",
+  "license": "MIT"
+}
